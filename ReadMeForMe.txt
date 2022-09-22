@@ -1,15 +1,15 @@
 L3 SW
-vlanky na nich
+vlanky na nich ✓
 SPT urobit primary a secundary
 Urobiť DHCP a porty
 na outgoing porty pridať ip adresy z poolu
-inter vlan routing
-pridať trunky
-etherchannel medzi nimi
+inter vlan routing (next)
+pridať trunky ✓
+etherchannel medzi nimi (next)
 
 L2
-pridať vlanky 
-urobiť trunky 
+pridať vlanky ✓
+urobiť trunky ✓
 STP tak aby medzi sebou si neposielali
 
 R
