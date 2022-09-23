@@ -3,7 +3,7 @@ vlanky na nich ✓
 SPT urobit primary a secundary
 Urobiť DHCP a porty
 na outgoing porty pridať ip adresy z poolu
-inter vlan routing (next)
+inter vlan routing ✓
 pridať trunky ✓
 etherchannel medzi nimi (next)
 
