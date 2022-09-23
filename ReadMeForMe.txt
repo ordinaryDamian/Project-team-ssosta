@@ -5,7 +5,7 @@ Urobiť DHCP a porty
 na outgoing porty pridať ip adresy z poolu
 inter vlan routing ✓
 pridať trunky ✓
-etherchannel medzi nimi (next)
+etherchannel medzi nimi ✓
 
 L2
 pridať vlanky ✓
