@@ -9,7 +9,7 @@ etherchannel medzi nimi ✓
 Vlan 666 všetky neopuzite porty na nu a shutdown+ostatne pridat port security
 pridať ACL podla zadania
 Urobiť management
-
+K standby pridat na prioritny SW preempt (pozri dokument)
 
 L2
 pridať vlanky ✓
@@ -20,6 +20,8 @@ urobit management
 R
 nastavit FHRP do dvoch group budu 2 Virtual IP adresy L3 switchoch a L3SW  budu rutovane a bude smerovanie
 pridať adresi a smerovanie
+
+Pridať SW nonegotiate atd, security measures
 
 Urobiť ACL na Routeroch  urobiť GRE tunel
 
