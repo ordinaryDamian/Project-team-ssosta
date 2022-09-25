@@ -2,7 +2,7 @@ L3 SW
 vlanky na nich ✓
 SPT urobit primary a secundary ✓ 
 Urobiť DHCP a porty
-na outgoing porty (port k R) pridať ip adresy
+na outgoing porty (port k R) pridať ip adresy ✓  
 inter vlan routing ✓
 pridať trunky ✓
 etherchannel medzi nimi ✓
@@ -18,11 +18,11 @@ Vlan 666 vsetky nepouzite  porty na nu+shutdown a pridať port security vsetky o
 urobit management
 
 R
-nastavit FHRP do dvoch group budu 2 Virtual IP adresy L3 switchoch a L3SW  budu rutovane a bude smerovanie
-pridať adresi a smerovanie
+nastavit FHRP do dvoch group budu 2 Virtual IP adresy L3 switchoch a L3SW  budu rutovane a bude smerovanie ✓ 
+pridať adresi a smerovanie ✓ 
 
 Pridať SW nonegotiate atd, security measures
 
-Urobiť ACL na Routeroch  urobiť GRE tunel
+TODO:Urobiť ACL na L3, urobiť GRE tunel, SMEROVANIE IN AND OUT, DHCP, MANAGEMENT a Preempt, VLAN 666, Pridať Koncove a Upratať to 
 
 !!!!!! MODLIŤ SA K VŠETKÝM BOHOM SVETA ABY TO FUNGOVALO !!!!!!
