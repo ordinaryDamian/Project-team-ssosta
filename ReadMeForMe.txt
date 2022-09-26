@@ -17,12 +17,16 @@ urobiť trunky ✓
 Vlan 666 vsetky nepouzite  porty na nu+shutdown a pridať port security vsetky ostatne 
 urobit management
 
+DHCP
+NA R satavit route preto nefunguje
+
 R
 nastavit FHRP do dvoch group budu 2 Virtual IP adresy L3 switchoch a L3SW  budu rutovane a bude smerovanie ✓ 
 pridať adresi a smerovanie ✓ 
 
 Pridať SW nonegotiate atd, security measures
 
-TODO:Urobiť ACL na L3, urobiť GRE tunel, SMEROVANIE IN AND OUT, DHCP, MANAGEMENT a Preempt, VLAN 666, Pridať Koncove a Upratať to 
+TODO:Urobiť ACL na L3, urobiť GRE tunel, SMEROVANIE IN AND OUT, DHCP, 
+DAS MAŤO TODO: MANAGEMENT a Preempt, VLAN 666, na všetky trunk porty SW nonegotiate, Pridať Koncove a Upratať to 
 
 !!!!!! MODLIŤ SA K VŠETKÝM BOHOM SVETA ABY TO FUNGOVALO !!!!!!
