@@ -6,17 +6,17 @@ na outgoing porty (port k R) pridať ip adresy ✓
 inter vlan routing ✓
 pridať trunky ✓
 etherchannel medzi nimi ✓
-Vlan 666 všetky neopuzite porty na nu a shutdown+ostatne pridat port security
+Vlan 666 všetky neopuzite porty na nu a shutdown+ostatne pridat port security✓
 pridať ACL podla zadania✓  ale nefunguju
-Urobiť management
-K standby pridat na prioritny SW preempt (pozri dokument)
+Urobiť management✓
+K standby pridat na prioritny SW preempt (pozri dokument)✓
 SMEROVANIE IN AND OUT, DHCP,✓ 
 
 L2
 pridať vlanky ✓
 urobiť trunky ✓
-Vlan 666 vsetky nepouzite  porty na nu+shutdown a pridať port security vsetky ostatne 
-urobit management
+Vlan 666 vsetky nepouzite  porty na nu+shutdown a pridať port security vsetky ostatne ✓
+urobit management✓
 
 DHCP
 NA R satavit route preto nefunguje✓ 
@@ -25,15 +25,18 @@ R
 nastavit FHRP do dvoch group budu 2 Virtual IP adresy L3 switchoch a L3SW  budu rutovane a bude smerovanie ✓ 
 pridať adresi a smerovanie ✓ 
 
-Pridať SW nonegotiate atd, security measures
+Pridať SW nonegotiate atd, security measures✓
 
 TODO:[Urobiť ACL na L3;nefunguju], urobiť GRE tunel ✓ ,
 
 
 
-DAS MAŤO TODO: MANAGEMENT a Preempt na L3SW na INT vlan pridať ako standby,
-VLAN 666-vypnut nepouzite porty a pridať ich do tejto Vlanky, na všetky trunk porty na všetkých switchoch SW nonegotiate,
-Pridať Koncove podla zadania a Upratať to 
+DAS MAŤO TODO: MANAGEMENT (ssh, off-telnet, Console, exec)✓
+Preempt na L3SW na INT vlan pridať ako standby,✓
+portsecurity na SW
+VLAN 666-vypnut nepouzite porty a pridať ich do tejto Vlanky,✓
+na všetky trunk porty na všetkých switchoch SW nonegotiate,
+Pridať Koncove podla zadania a Upratať to ✓
 
 
 
